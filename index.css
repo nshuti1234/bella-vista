@@ -27,6 +27,7 @@ body{
     text-align: center;
     justify-content: space-between;
     gap: 1rem;
+    
 }
 .tags a{
     color:black;
